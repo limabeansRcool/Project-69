@@ -1,0 +1,11 @@
+.travel_maindiv{
+    border:1px solid lightblue;
+
+}
+.travel_maindiv img{
+    width:100%;
+
+}
+.travel_maindiv h5, .travel_maindiv p{
+    margin:20px;
+}
